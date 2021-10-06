@@ -1,0 +1,136 @@
+{
+  "answers": [
+    {
+      "id": 1,
+      "answer": "Hello!"
+    },
+    {
+      "id": 2,
+      "answer": "I'm a space information assistant!"
+    },
+    {
+      "id": 3,
+      "answer": "The Sun is a star."
+    },
+    {
+      "id": 4,
+      "answer": "We are on the planet Earth, the 3rd planet from the sun."
+    },
+    {
+      "id": 5,
+      "answer": "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and it used to be Pluto, but now it is classified as a Proto-planet."
+    },
+    {
+      "id": 6,
+      "answer": "A comet is a celestial body with low mass compared to a planet, that orbits the solar system with a very strange orbit."
+    },
+    {
+      "id": 7,
+      "answer": "The most accepted scientific theory is that gravity began attracting gases and rocks, to form the sun and later the planets."
+    },
+    {
+      "id": 8,
+      "answer": "A rocket is a vessel that is cilindrical in shape, that humans use to launch cargo, and people in orbit and beyond."
+    },
+    {
+      "id": 9,
+      "answer": "A lightyear is the distance light travels in one earth year."
+    },
+    {
+      "id": 10,
+      "answer": "A black hole is a super dense celestial body that used to be a star, but went supernova."
+    },
+    {
+      "id": 11,
+      "answer": "A nebula is a cloud of gas and other materials that has the potential to form a star or a solar system."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "hello"
+    },
+    {
+      "id": 2,
+      "question": "who are you"
+    },
+    {
+      "id": 3,
+      "question": "what is the sun"
+    },
+    {
+      "id": 4,
+      "question": "where are we"
+    },
+    {
+      "id": 5,
+      "question": "what are the planets in the solar system"
+    },
+    {
+      "id": 6,
+      "question": "what is a comet"
+    },
+    {
+      "id": 7,
+      "question": "how did the solar system form"
+    },
+    {
+      "id": 8,
+      "question": "what is a rocket"
+    },
+    {
+      "id": 9,
+      "question": "what is a lightyear"
+    },
+    {
+      "id": 10,
+      "question": "what is a black hole"
+    },
+    {
+      "id": 11,
+      "question": "what is a nebula"
+    }
+  ],
+  "history": [
+    {
+      "tmssg": "Hello",
+      "typer": "User",
+      "id": 1
+    },
+    {
+      "tmssg": "Hello!",
+      "typer": "Bot",
+      "id": 2
+    },
+    {
+      "tmssg": "What are the planets in the solar system?",
+      "typer": "User",
+      "id": 3
+    },
+    {
+      "tmssg": "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and it used to be Pluto, but now it is classified as a Proto-planet.",
+      "typer": "Bot",
+      "id": 4
+    },
+    {
+      "tmssg": "Who are you?",
+      "typer": "User",
+      "id": 5
+    },
+    {
+      "tmssg": "I'm a space information assistant!",
+      "typer": "Bot",
+      "id": 6
+    },
+    {
+      "tmssg": "What is a rocket?",
+      "typer": "User",
+      "id": 7
+    },
+    {
+      "tmssg": "A rocket is a vessel that is cilindrical in shape, that humans use to launch cargo, and people in orbit and beyond.",
+      "typer": "Bot",
+      "id": 8
+    }
+  ]
+}
