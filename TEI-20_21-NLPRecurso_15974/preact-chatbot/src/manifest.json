@@ -1,0 +1,16 @@
+{
+  "name": "Driving Buddy",
+  "short_name": "DB",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff",
+  "theme_color": "#673ab8",
+  "icons": [
+    {
+      "src": "/images/car.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

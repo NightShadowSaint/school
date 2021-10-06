@@ -1,0 +1,126 @@
+{
+  "history": [
+    {
+      "id": 5,
+      "text": "Car",
+      "user": "user",
+      "roomId": 2
+    },
+    {
+      "id": 6,
+      "text": "Vroom vroom",
+      "user": "ai",
+      "roomId": 2
+    },
+    {
+      "id": 9,
+      "text": "Trip at 4pm",
+      "user": "user",
+      "roomId": 3
+    },
+    {
+      "id": 10,
+      "text": "I don't know that yet",
+      "user": "ai",
+      "roomId": 3
+    },
+    {
+      "id": 13,
+      "text": "Hi",
+      "user": "user",
+      "roomId": 1
+    },
+    {
+      "id": 14,
+      "text": "What's up",
+      "user": "ai",
+      "roomId": 1
+    },
+    {
+      "id": 17,
+      "text": "I need a trip to Lisbon in a limousine at 2pm 23/07/2021, which is about 151kms",
+      "user": "user",
+      "roomId": 1
+    },
+    {
+      "id": 18,
+      "text": "Your trip to Lisbon has been scheduled for 2021-07-23T14:00:00.000+01:00 and the price of the trip will be 3020€.\nIs there anything else you need?",
+      "user": "ai",
+      "roomId": 1
+    },
+    {
+      "id": 19,
+      "text": "Thank you",
+      "user": "user",
+      "roomId": 1
+    },
+    {
+      "id": 20,
+      "text": "You're welcome :D",
+      "user": "ai",
+      "roomId": 1
+    },
+    {
+      "id": 21,
+      "text": "Bye",
+      "user": "user",
+      "roomId": 1
+    },
+    {
+      "id": 22,
+      "text": "See you later",
+      "user": "ai",
+      "roomId": 1
+    },
+    {
+      "id": 23,
+      "text": "Hi",
+      "user": "user",
+      "roomId": 4
+    },
+    {
+      "id": 24,
+      "text": "Hi",
+      "user": "ai",
+      "roomId": 4
+    },
+    {
+      "id": 25,
+      "text": "I need your list of vehicles",
+      "user": "user",
+      "roomId": 4
+    },
+    {
+      "id": 26,
+      "text": "For the vehicles we currently have, limousine, 7 seater, executive, city the prices per Km are as follows, by order: 20, 4, 10, 0.5",
+      "user": "ai",
+      "roomId": 4
+    },
+    {
+      "id": 27,
+      "text": "Thank you",
+      "user": "user",
+      "roomId": 4
+    },
+    {
+      "id": 28,
+      "text": "You're welcome!",
+      "user": "ai",
+      "roomId": 4
+    }
+  ],
+  "rooms": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    }
+  ]
+}
