@@ -1,0 +1,8 @@
+InnoDB: using atomic writes.
+2020-12-08 21:01:01 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2020-12-08 21:01:01 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2020-12-08 21:01:01 0 [ERROR] Plugin 'InnoDB' init function returned error.
+2020-12-08 21:01:01 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2020-12-08 21:01:01 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-12-08 21:01:01 0 [ERROR] Unknown/unsupported storage engine: InnoDB
+2020-12-08 21:01:01 0 [ERROR] Aborting
